@@ -1,0 +1,6 @@
+﻿id,repository,cate,predicted_label,predicted_label_str,repository_link,pmcid,category,pub_date,n_refs,n_cits
+PMC406393.txt,"[('ebi.ac.uk/arrayexpress', 32184, 32206)]",comm,1,reuse,['ebi.ac.uk/arrayexpress'],PMC406393,['06 Biological Sciences'],2004/5/11,33,305
+PMC514887.txt,"[('ebi.ac.uk/arrayexpress', 5842, 5864)]",comm,2,reference,['ebi.ac.uk/arrayexpress'],PMC514887,['06 Biological Sciences'],2004/8/31,7,103
+PMC515368.txt,"[('ebi.ac.uk/arrayexpress', 37889, 37911)]",comm,0,release,['ebi.ac.uk/arrayexpress'],PMC515368,['06 Biological Sciences'],2004/9/7,37,126
+PMC524472.txt,"[('uniprot.org', 37445, 37456)]",comm,2,reference,['uniprot.org'],PMC524472,['06 Biological Sciences'],2004/11/2,70,349
+PMC526512.txt,"[('zfin.org', 32181, 32189)]",comm,1,reuse,['zfin.org'],PMC526512,['06 Biological Sciences'],2004/11/11,78,815
